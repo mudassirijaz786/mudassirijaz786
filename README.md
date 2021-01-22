@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 -->
 🔭 I’m currently working with JavaScript
 
-[![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https:braydoncoyer.dev)
+[![Visits Badge]()
 
