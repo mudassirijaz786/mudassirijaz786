@@ -16,5 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🔭 I’m currently working with JavaScript
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mudassirijaz786)](https://github.com/mudassirijaz786/github-readme-streak-stats)
+
 
 
