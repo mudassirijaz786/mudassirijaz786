@@ -1,6 +1,8 @@
-## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+## 💬 Hi Mudassir Ijaz here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 I am Mudassir Ijaz, currently working at kwanso. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+
+## 📫 Lets connect
 
 [![Linkedin Badge](https://img.shields.io/badge/-mudassir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mudassirijaz786/)](https://www.linkedin.com/in/mudassirijaz786/)
 [![Instagram Badge](https://img.shields.io/badge/-mudassir-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/mudassirijaz786/)](https://instagram.com/mudassirijaz786)
