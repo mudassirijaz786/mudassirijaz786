@@ -40,8 +40,6 @@ I am Mudassir Ijaz, currently working at kwanso. I am a tech enthusiast & an ope
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mudassirijaz786&hide=TeX&layout=compact)
 
-## ⚡ Github
-
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=mudassirijaz786&count_private=true&show_icons=true&include_all_commits=true)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mudassirijaz786)](https://github.com/mudassirijaz786/github-readme-streak-stats)
