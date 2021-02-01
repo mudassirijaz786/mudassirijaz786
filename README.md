@@ -38,9 +38,7 @@ I am Mudassir Ijaz, currently working at kwanso. I am a tech enthusiast & an ope
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
 ## 🖥️ Top Languages
-<p align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mudassirijaz786&hide=TeX&layout=compact)
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mudassirijaz786&hide=TeX&layout=compact)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=mudassirijaz786&count_private=true&show_icons=true&include_all_commits=true)
 
