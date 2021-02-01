@@ -42,4 +42,5 @@ I am Mudassir Ijaz, currently working at kwanso. I am a tech enthusiast & an ope
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=mudassirijaz786&count_private=true&show_icons=true&include_all_commits=true)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mudassirijaz786)](https://github.com/mudassirijaz786/github-readme-streak-stats)
+
