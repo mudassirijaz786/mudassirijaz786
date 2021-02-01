@@ -2,6 +2,13 @@
 
 I am Mudassir Ijaz, currently working at kwanso. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
+My interests are with Natural Language Processing/Understanding, Computer vision, Deep Learning, etc..;
+While Coding, Listening Music and developing useful code.star
+Just loved to Explore new Tech Stacks.computer
+Always Willing to help (Altruistic). hand
+👨🏽‍💻 I’m currently working on improving my techskill;
+speech_balloon Talk to me about if Earth actually is flat, would headlights work at light speed, and everything in betweensmile_catsmile_cat
+
 ## 📫 Lets connect
 
 [![Linkedin Badge](https://img.shields.io/badge/-mudassir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mudassirijaz786/)](https://www.linkedin.com/in/mudassirijaz786/)
