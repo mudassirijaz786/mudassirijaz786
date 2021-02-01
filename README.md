@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 
 
 <h2>💻 Some stats 💻</h2>
-[![Anand K. Mainali GitHub Stats](https://github-readme-stats.vercel.app/api?username=mudassirijaz786&show_icons=true&count_private=true)](https://github.com/anandmainali)
+[![Anand K. Mainali GitHub Stats](https://github-readme-stats.vercel.app/api?username=anandmainali&show_icons=true&count_private=true)](https://github.com/anandmainali)
