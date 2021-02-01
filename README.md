@@ -40,8 +40,7 @@ I am Mudassir Ijaz, currently working at kwanso. I am a tech enthusiast & an ope
 ## 🖥️ Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mudassirijaz786&hide=TeX&layout=compact)
 
-<img align="right" width="450px" alt="GIF" src="https://miro.medium.com/max/480/0*tWkX7jycteZn1qbC.gif" />
-<br>
+<img width="450px" alt="GIF" src="https://miro.medium.com/max/480/0*tWkX7jycteZn1qbC.gif" />
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=mudassirijaz786&count_private=true&show_icons=true&include_all_commits=true)
 
