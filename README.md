@@ -33,7 +33,7 @@ I am Mudassir Ijaz, currently working at kwanso. I am a tech enthusiast & an ope
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![Material UI](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=material-ui)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
 ## 🖥️ Top Languages
