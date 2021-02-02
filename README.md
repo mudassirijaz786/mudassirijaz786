@@ -7,7 +7,7 @@ I am Mudassir Ijaz, currently working at kwanso. I am a tech enthusiast & an ope
 [![Linkedin Badge](https://img.shields.io/badge/-mudassir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mudassirijaz786/)](https://www.linkedin.com/in/mudassirijaz786/)
 [![Instagram Badge](https://img.shields.io/badge/-mudassir-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/mudassirijaz786/)](https://instagram.com/mudassirijaz786)
 [![Medium Badge](https://img.shields.io/badge/-@mudassir-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@aemmadi/)](https://medium.com/@mudassirijaz786)
-[![Stack Overflow](https://img.shields.io/badge/-mudassir-09a23a?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/8076263/mudassirijaz786)](https://stackoverflow.com/users/8076263/mudassirijaz786)
+[![Stack Overflow](https://img.shields.io/badge/-mudassir-05d23a?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/8076263/mudassirijaz786)](https://stackoverflow.com/users/8076263/mudassirijaz786)
 [![Gmail Badge](https://img.shields.io/badge/-mudassir-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ijazmudassir786@gmail.com)](mailto:ijazmudassir786@gmail.com)
 
 ## ⚡ Technologies
