@@ -1,6 +1,6 @@
 ## 💬 Hi guys, Mudassir Ijaz here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am Mudassir Ijaz, currently working with US clients. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. My interests are with Natural Language Processing/Understanding, Computer vision, Deep Learning, etc..;
+I am Mudassir Ijaz, currently working with US clients. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. My interests are Natural Language Processing/Understanding, Computer vision, Deep Learning, etc..;
 
 ## 📫 Lets connect
 
